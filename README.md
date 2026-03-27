@@ -4,7 +4,11 @@
 💻 Profile: Configure/Moderator & Fresher Developer
 
 📍 Location: Vietnam
+
 💼 Work: Emc2VN
+
 🌱 Learning: MEP | Water Infrastructure | System Design
+
 🚀 Goals: Crafting the ultimate Minecraft server
+
 📫 Contact: Discord ➔ Cyzdsthegod

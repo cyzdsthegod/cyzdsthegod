@@ -9,6 +9,6 @@
 
 🌱 Learning: MEP | Water Infrastructure | System Design
 
-🚀 Goals: Crafting the ultimate Minecraft server
+🚀 Goals: Crafting the ultimate Minecraft server | Be an engineer
 
 📫 Contact: Discord ➔ Cyzdsthegod
